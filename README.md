@@ -1,1 +1,1 @@
-# ft2
+# fruit-catcher-2
